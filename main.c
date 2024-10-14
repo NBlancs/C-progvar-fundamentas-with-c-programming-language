@@ -166,7 +166,7 @@ int main(){
 
     // dereferencing
     printf("%d\n", *ptr);
-    printf("%p\n", &myNum);
+    printf("%p\n", ptr);
 
 
 
