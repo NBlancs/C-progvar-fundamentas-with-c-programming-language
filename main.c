@@ -33,7 +33,7 @@ int main(){
     // char
     //non-primite data types
     // string 
-    // boolean
+    // boolean -> can be considered primitive
 
         // int num = 10;
         // double numd = 5.25;
